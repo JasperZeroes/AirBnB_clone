@@ -283,8 +283,6 @@
     $ python3 unittest -m tests/test_console.py
     ```
 
-    ## Authors
-  * **Mendie Uwemedimo**
-    * <[Mendy](https://github.com/Slamchillz)>
-  * **Oluwateniola Adegbulugbe**
-    * <[Ludten](https://github.com/Ludten)>
+    ## Author
+  * **Chima Enyeribe**
+    * <[JasperZeroes](https://github.com/JasperZeroes)>
